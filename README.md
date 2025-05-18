@@ -1,4 +1,7 @@
-## Hi there 👋
+Biology and Computer Science at Bowdoin College. 
+
+- Currently working on my honors thesis: Using ML based pose estimation tool to characterize flying behavior in _G. bimaculatus_.
+- Interests: Computational Biology/Nueroscience, AI/ML, Bioinformatics, genomics....
 
 <!--
 **tom21100227/tom21100227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
