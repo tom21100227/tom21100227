@@ -1,7 +1,9 @@
-Molecular and Cellular Biology and Computer Science at Bowdoin College. 
+Recent CS/Mol.Bio grad from Bowdoin College. 
 
-- Currently working on my honors thesis: Using ML based pose estimation tool to characterize flying behavior in _G. bimaculatus_.
+- Currently working in Talmo Lab at Salk Institute for computational neuroscience.
 - Interests: Computational Biology/Nueroscience, AI/ML, Bioinformatics, genomics....
+
+For portfolio see [tomhcy.com](https://tomhcy.com). 
 
 <!--
 **tom21100227/tom21100227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
