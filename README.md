@@ -5,6 +5,11 @@ Recent CS/Mol.Bio grad from Bowdoin College.
 
 For portfolio see [tomhcy.com](https://tomhcy.com). 
 
+[![Portfolio Website](https://img.shields.io/website?url=https%3A%2F%2Ftomhcy.com&label=portfolio)](https://tomhcy.com)
+[![Resume](https://img.shields.io/website?url=https%3A%2F%2Ftomhcy.com%2Fresume.html&label=resume)](https://tomhcy.com/resume.html)
+
+
+
 <!--
 **tom21100227/tom21100227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
