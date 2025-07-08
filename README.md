@@ -5,6 +5,7 @@ Recent CS/Mol.Bio grad from Bowdoin College.
 
 For portfolio see [tomhcy.com](https://tomhcy.com). 
 
+[![Now Playing](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmusic-api.tomhcy.workers.dev%2F&query=%24.title&style=flat&logo=applemusic&label=now%20playing&cacheSeconds=60)](https://tomhcy.com/projects/now-playing-indicator.html)
 [![Portfolio Website](https://img.shields.io/website?url=https%3A%2F%2Ftomhcy.com&label=portfolio)](https://tomhcy.com)
 [![Resume](https://img.shields.io/website?url=https%3A%2F%2Ftomhcy.com%2Fresume.html&label=resume)](https://tomhcy.com/resume.html)
 
