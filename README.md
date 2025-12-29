@@ -1,7 +1,4 @@
-Recent CS/Mol.Bio grad from Bowdoin College. 
-
-- Currently working in Talmo Lab at Salk Institute for computational neuroscience.
-- Interests: Computational Biology/Nueroscience, AI/ML, Bioinformatics, genomics....
+Research Assistant at Talmo lab in Salk Insitute, computational neuroscience. (maybe?)
 
 For portfolio see [tomhcy.com](https://tomhcy.com). 
 
